@@ -2,3 +2,5 @@
 
 ![React as a Full Stack Framework](image.png)
 
+The new paradigm in the image above has started.
+ 
